@@ -1,0 +1,8 @@
+# START YOAST INTERNAL SEARCH BLOCK
+# ---------------------------
+User-agent: *
+Disallow:
+
+Sitemap: https://duck.design/sitemap_index.xml
+# ---------------------------
+# END YOAST INTERNAL SEARCH BLOCK

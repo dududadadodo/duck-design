@@ -1,0 +1,934 @@
+
+<!DOCTYPE html>
+<html lang="en-GB">
+<head>
+	<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-7LXWFPPYSG"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-7LXWFPPYSG');
+</script>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="theme-color" content="#ffffff">
+    <link rel="shortcut icon" href="wp-content/themes/duckdesign/assets/img/favicon.ico" type="image/x-icon">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
+
+	<!-- This site is optimized with the Yoast SEO plugin v19.7 - https://yoast.com/wordpress/plugins/seo/ -->
+	<title>Startup Design Services - Duck Design</title>
+	<link rel="canonical" href="startup-design-services/140" />
+	<meta property="og:locale" content="en_GB" />
+	<meta property="og:type" content="article" />
+	<meta property="og:title" content="Startup Design Services - Duck Design" />
+	<meta property="og:url" content="https://duck.design/startup-design-services/" />
+	<meta property="og:site_name" content="Duck Design" />
+	<meta property="article:modified_time" content="2022-06-29T14:02:20+00:00" />
+	<meta property="og:image" content="https://duck.design/wp-content/uploads/2022/03/1.png" />
+	<meta property="og:image:width" content="1500" />
+	<meta property="og:image:height" content="1500" />
+	<meta property="og:image:type" content="image/png" />
+	<meta name="twitter:card" content="summary_large_image" />
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://duck.design/startup-design-services/","url":"https://duck.design/startup-design-services/","name":"Startup Design Services - Duck Design","isPartOf":{"@id":"https://duck.design/#website"},"datePublished":"2022-02-22T07:49:02+00:00","dateModified":"2022-06-29T14:02:20+00:00","breadcrumb":{"@id":"https://duck.design/startup-design-services/#breadcrumb"},"inLanguage":"en-GB","potentialAction":[{"@type":"ReadAction","target":["https://duck.design/startup-design-services/"]}]},{"@type":"BreadcrumbList","@id":"https://duck.design/startup-design-services/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://duck.design/"},{"@type":"ListItem","position":2,"name":"Startup Design Services"}]},{"@type":"WebSite","@id":"https://duck.design/#website","url":"https://duck.design/","name":"Duck Design","description":"","publisher":{"@id":"https://duck.design/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://duck.design/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"en-GB"},{"@type":"Organization","@id":"https://duck.design/#organization","name":"Duck Design","url":"https://duck.design/","sameAs":[],"logo":{"@type":"ImageObject","inLanguage":"en-GB","@id":"https://duck.design/#/schema/logo/image/","url":"https://duck.design/wp-content/uploads/2022/03/1.png","contentUrl":"https://duck.design/wp-content/uploads/2022/03/1.png","width":1500,"height":1500,"caption":"Duck Design"},"image":{"@id":"https://duck.design/#/schema/logo/image/"}}]}</script>
+	<!-- / Yoast SEO plugin. -->
+
+
+<link rel='stylesheet' id='classic-theme-styles-css' href='wp-content/cache/duck.design/wpfc-minified/qac7zmzh/hx3hn.css' media='all' />
+<style id='global-styles-inline-css'>
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--duotone--dark-grayscale: url('startup-design-services/140');--wp--preset--duotone--grayscale: url('startup-design-services/140');--wp--preset--duotone--purple-yellow: url('startup-design-services/140');--wp--preset--duotone--blue-red: url('startup-design-services/140');--wp--preset--duotone--midnight: url('startup-design-services/140');--wp--preset--duotone--magenta-yellow: url('startup-design-services/140');--wp--preset--duotone--purple-green: url('startup-design-services/140');--wp--preset--duotone--blue-orange: url('startup-design-services/140');--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;}:where(.is-layout-flex){gap: 0.5em;}body .is-layout-flow > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-flow > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-flow > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-constrained > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-constrained > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width: var(--wp--style--global--content-size);margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignwide{max-width: var(--wp--style--global--wide-size);}body .is-layout-flex{display: flex;}body .is-layout-flex{flex-wrap: wrap;align-items: center;}body .is-layout-flex > *{margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+.wp-block-navigation a:where(:not(.wp-element-button)){color: inherit;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}
+.wp-block-pullquote{font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel='stylesheet' id='contact-form-7-css' href='wp-content/cache/duck.design/wpfc-minified/laup5w9d/hx3hn.css' media='all' />
+<link rel='stylesheet' id='menu-image-css' href='wp-content/cache/duck.design/wpfc-minified/17w3tex/hx3hn.css' media='all' />
+<link rel='stylesheet' id='stylesheet-css' href='wp-content/cache/duck.design/wpfc-minified/1p5zokp6/hx3hn.css' media='all' />
+<link rel="https://api.w.org/" href="wp-json/index.html" /><link rel="alternate" type="application/json" href="wp-json/wp/v2/pages/1323" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://duck.design/wp-includes/wlwmanifest.xml" />
+<meta name="generator" content="WordPress 6.1" />
+<link rel='shortlink' href='index.html?p=1323' />
+<link rel="alternate" type="application/json+oembed" href="wp-json/oembed/1.0/embed?url=https:%252F%252Fduck.design%252Fstartup-design-services%252F" />
+<link rel="alternate" type="text/xml+oembed" href="wp-json/oembed/1.0/embed?url=https:%252F%252Fduck.design%252Fstartup-design-services%252F&amp;format=xml" />
+		<script>
+			document.documentElement.className = document.documentElement.className.replace( 'no-js', 'js' );
+		</script>
+				<style>
+			.no-js img.lazyload { display: none; }
+			figure.wp-block-image img.lazyloading { min-width: 150px; }
+							.lazyload, .lazyloading { opacity: 0; }
+				.lazyloaded {
+					opacity: 1;
+					transition: opacity 400ms;
+					transition-delay: 0ms;
+				}
+					</style>
+		
+    <link rel="stylesheet" href='wp-content/cache/duck.design/wpfc-minified/89sejegh/hx3hn.css'>
+    <!-- Google Tag Manager -->
+    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+    'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-5PBPH97');</script>
+    <!-- End Google Tag Manager -->
+</head>
+<body>
+    <!-- Google Tag Manager (noscript) -->
+    <noscript><iframe 
+    height="0" width="0" style="display:none;visibility:hidden" data-src="https://www.googletagmanager.com/ns.html?id=GTM-5PBPH97" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="></iframe></noscript>
+    <!-- End Google Tag Manager (noscript) -->
+    <header class="header">
+    <div class="container header__container">
+                    <a href="index.html" class="header__logo">
+                <img  alt="Duck Design logo" width="174" height="35" data-src="https://duck.design/wp-content/themes/duckdesign/assets/img/logo.svg" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img src="wp-content/themes/duckdesign/assets/img/logo.svg" alt="Duck Design logo" width="174" height="35"></noscript>
+            </a>
+        
+        <nav class="menu"> 
+            <ul id="menu-main-menu" class="menu__list"><li id="menu-item-148" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-148"><a href="index.html?p=136">Pricing</a></li>
+<li id="menu-item-1253" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-ancestor current-menu-parent menu-item-has-children menu-item-1253"><a href="startup-design-services/140#">Capabilities</a>
+<ul class="sub-menu">
+	<li id="menu-item-1263" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1263"><a href="index.html?p=1003" class="menu-image-title-after menu-image-not-hovered"><img width="26" height="26"   alt="" decoding="async" data-src="https://duck.design/wp-content/uploads/2022/06/menu-gr-design.svg" class="menu-image menu-image-title-after lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img width="26" height="26"   alt="" decoding="async" data-src="https://duck.design/wp-content/uploads/2022/06/menu-gr-design.svg" class="menu-image menu-image-title-after lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img width="26" height="26"   alt="" decoding="async" data-src="https://duck.design/wp-content/uploads/2022/06/menu-gr-design.svg" class="menu-image menu-image-title-after lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img width="26" height="26" src="wp-content/uploads/2022/06/menu-gr-design.svg" class="menu-image menu-image-title-after" alt="" decoding="async" /></noscript></noscript></noscript><span class="menu-image-title-after menu-image-title">Graphic Design</span></a></li>
+	<li id="menu-item-1262" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1262"><a href="index.html?p=1122" class="menu-image-title-after menu-image-not-hovered"><img width="27" height="20"   alt="" decoding="async" data-src="https://duck.design/wp-content/uploads/2022/06/menu-adv-marketing.svg" class="menu-image menu-image-title-after lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img width="27" height="20"   alt="" decoding="async" data-src="https://duck.design/wp-content/uploads/2022/06/menu-adv-marketing.svg" class="menu-image menu-image-title-after lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img width="27" height="20"   alt="" decoding="async" data-src="https://duck.design/wp-content/uploads/2022/06/menu-adv-marketing.svg" class="menu-image menu-image-title-after lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img width="27" height="20" src="wp-content/uploads/2022/06/menu-adv-marketing.svg" class="menu-image menu-image-title-after" alt="" decoding="async" /></noscript></noscript></noscript><span class="menu-image-title-after menu-image-title">Advertising &#038; Marketing</span></a></li>
+	<li id="menu-item-1264" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1264"><a href="index.html?p=597" class="menu-image-title-after menu-image-not-hovered"><img width="20" height="20"   alt="" decoding="async" data-src="https://duck.design/wp-content/uploads/2022/06/menu-motion.svg" class="menu-image menu-image-title-after lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img width="20" height="20"   alt="" decoding="async" data-src="https://duck.design/wp-content/uploads/2022/06/menu-motion.svg" class="menu-image menu-image-title-after lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img width="20" height="20"   alt="" decoding="async" data-src="https://duck.design/wp-content/uploads/2022/06/menu-motion.svg" class="menu-image menu-image-title-after lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img width="20" height="20" src="wp-content/uploads/2022/06/menu-motion.svg" class="menu-image menu-image-title-after" alt="" decoding="async" /></noscript></noscript></noscript><span class="menu-image-title-after menu-image-title">Motion Graphics</span></a></li>
+	<li id="menu-item-1261" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1261"><a href="infographic-design-and-custom-illustration-services/140" class="menu-image-title-after menu-image-not-hovered"><img width="27" height="26"   alt="" decoding="async" data-src="https://duck.design/wp-content/uploads/2022/06/menu-infographik.svg" class="menu-image menu-image-title-after lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img width="27" height="26"   alt="" decoding="async" data-src="https://duck.design/wp-content/uploads/2022/06/menu-infographik.svg" class="menu-image menu-image-title-after lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img width="27" height="26"   alt="" decoding="async" data-src="https://duck.design/wp-content/uploads/2022/06/menu-infographik.svg" class="menu-image menu-image-title-after lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img width="27" height="26" src="wp-content/uploads/2022/06/menu-infographik.svg" class="menu-image menu-image-title-after" alt="" decoding="async" /></noscript></noscript></noscript><span class="menu-image-title-after menu-image-title">Infographic Design &#038; Illustration</span></a></li>
+	<li id="menu-item-1260" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1260"><a href="brand-identity-design-services/140" class="menu-image-title-after menu-image-not-hovered"><img width="24" height="24"   alt="" decoding="async" data-src="https://duck.design/wp-content/uploads/2022/06/menu-brand-design.svg" class="menu-image menu-image-title-after lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img width="24" height="24"   alt="" decoding="async" data-src="https://duck.design/wp-content/uploads/2022/06/menu-brand-design.svg" class="menu-image menu-image-title-after lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img width="24" height="24"   alt="" decoding="async" data-src="https://duck.design/wp-content/uploads/2022/06/menu-brand-design.svg" class="menu-image menu-image-title-after lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img width="24" height="24" src="wp-content/uploads/2022/06/menu-brand-design.svg" class="menu-image menu-image-title-after" alt="" decoding="async" /></noscript></noscript></noscript><span class="menu-image-title-after menu-image-title">Brand Identity Design</span></a></li>
+	<li id="menu-item-1259" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1259"><a href="print-merchandise-and-packaging-design-services/140" class="menu-image-title-after menu-image-not-hovered"><img width="27" height="26"   alt="" decoding="async" data-src="https://duck.design/wp-content/uploads/2022/06/menu-print2.svg" class="menu-image menu-image-title-after lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img width="27" height="26"   alt="" decoding="async" data-src="https://duck.design/wp-content/uploads/2022/06/menu-print2.svg" class="menu-image menu-image-title-after lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img width="27" height="26"   alt="" decoding="async" data-src="https://duck.design/wp-content/uploads/2022/06/menu-print2.svg" class="menu-image menu-image-title-after lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img width="27" height="26" src="wp-content/uploads/2022/06/menu-print2.svg" class="menu-image menu-image-title-after" alt="" decoding="async" /></noscript></noscript></noscript><span class="menu-image-title-after menu-image-title">Print, Merchandise &#038; Packaging Design</span></a></li>
+	<li id="menu-item-1340" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1340"><a href="ux-ui-design-services/140" class="menu-image-title-after menu-image-not-hovered"><img width="20" height="24"   alt="" decoding="async" data-src="https://duck.design/wp-content/uploads/2022/06/menu-ui-design.svg" class="menu-image menu-image-title-after lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img width="20" height="24"   alt="" decoding="async" data-src="https://duck.design/wp-content/uploads/2022/06/menu-ui-design.svg" class="menu-image menu-image-title-after lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img width="20" height="24"   alt="" decoding="async" data-src="https://duck.design/wp-content/uploads/2022/06/menu-ui-design.svg" class="menu-image menu-image-title-after lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img width="20" height="24" src="wp-content/uploads/2022/06/menu-ui-design.svg" class="menu-image menu-image-title-after" alt="" decoding="async" /></noscript></noscript></noscript><span class="menu-image-title-after menu-image-title">UI/UX Design</span></a></li>
+	<li id="menu-item-1255" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1255"><a href="app-ui-ux-design-services/140" class="menu-image-title-after menu-image-not-hovered"><img width="26" height="26"   alt="" decoding="async" data-src="https://duck.design/wp-content/uploads/2022/06/menu-ux.svg" class="menu-image menu-image-title-after lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img width="26" height="26"   alt="" decoding="async" data-src="https://duck.design/wp-content/uploads/2022/06/menu-ux.svg" class="menu-image menu-image-title-after lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img width="26" height="26"   alt="" decoding="async" data-src="https://duck.design/wp-content/uploads/2022/06/menu-ux.svg" class="menu-image menu-image-title-after lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img width="26" height="26" src="wp-content/uploads/2022/06/menu-ux.svg" class="menu-image menu-image-title-after" alt="" decoding="async" /></noscript></noscript></noscript><span class="menu-image-title-after menu-image-title">App UI/UX Design</span></a></li>
+	<li id="menu-item-1256" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1256"><a href="website-design-services/140" class="menu-image-title-after menu-image-not-hovered"><img width="27" height="27"   alt="" decoding="async" data-src="https://duck.design/wp-content/uploads/2022/06/menu-website.svg" class="menu-image menu-image-title-after lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img width="27" height="27"   alt="" decoding="async" data-src="https://duck.design/wp-content/uploads/2022/06/menu-website.svg" class="menu-image menu-image-title-after lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img width="27" height="27"   alt="" decoding="async" data-src="https://duck.design/wp-content/uploads/2022/06/menu-website.svg" class="menu-image menu-image-title-after lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img width="27" height="27" src="wp-content/uploads/2022/06/menu-website.svg" class="menu-image menu-image-title-after" alt="" decoding="async" /></noscript></noscript></noscript><span class="menu-image-title-after menu-image-title">Website Design</span></a></li>
+	<li id="menu-item-1258" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1258"><a href="landing-page-design-services/140" class="menu-image-title-after menu-image-not-hovered"><img width="27" height="27"   alt="" decoding="async" data-src="https://duck.design/wp-content/uploads/2022/06/menu-landing.svg" class="menu-image menu-image-title-after lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img width="27" height="27"   alt="" decoding="async" data-src="https://duck.design/wp-content/uploads/2022/06/menu-landing.svg" class="menu-image menu-image-title-after lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img width="27" height="27"   alt="" decoding="async" data-src="https://duck.design/wp-content/uploads/2022/06/menu-landing.svg" class="menu-image menu-image-title-after lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img width="27" height="27" src="wp-content/uploads/2022/06/menu-landing.svg" class="menu-image menu-image-title-after" alt="" decoding="async" /></noscript></noscript></noscript><span class="menu-image-title-after menu-image-title">Landing Page Design</span></a></li>
+	<li id="menu-item-1257" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1257"><a href="powerpoint-design-services/140" class="menu-image-title-after menu-image-not-hovered"><img width="26" height="27"   alt="" decoding="async" data-src="https://duck.design/wp-content/uploads/2022/06/menu-powerpoint.svg" class="menu-image menu-image-title-after lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img width="26" height="27"   alt="" decoding="async" data-src="https://duck.design/wp-content/uploads/2022/06/menu-powerpoint.svg" class="menu-image menu-image-title-after lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img width="26" height="27"   alt="" decoding="async" data-src="https://duck.design/wp-content/uploads/2022/06/menu-powerpoint.svg" class="menu-image menu-image-title-after lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img width="26" height="27" src="wp-content/uploads/2022/06/menu-powerpoint.svg" class="menu-image menu-image-title-after" alt="" decoding="async" /></noscript></noscript></noscript><span class="menu-image-title-after menu-image-title">PowerPoint Design</span></a></li>
+	<li id="menu-item-1254" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1254"><a href="saas-product-design-services/140" class="menu-image-title-after menu-image-not-hovered"><img width="27" height="27"   alt="" decoding="async" data-src="https://duck.design/wp-content/uploads/2022/06/menu-sass.svg" class="menu-image menu-image-title-after lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img width="27" height="27"   alt="" decoding="async" data-src="https://duck.design/wp-content/uploads/2022/06/menu-sass.svg" class="menu-image menu-image-title-after lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img width="27" height="27"   alt="" decoding="async" data-src="https://duck.design/wp-content/uploads/2022/06/menu-sass.svg" class="menu-image menu-image-title-after lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img width="27" height="27" src="wp-content/uploads/2022/06/menu-sass.svg" class="menu-image menu-image-title-after" alt="" decoding="async" /></noscript></noscript></noscript><span class="menu-image-title-after menu-image-title">SaaS Product Design</span></a></li>
+	<li id="menu-item-1337" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1337"><a href="amazon-design-services/140" class="menu-image-title-after menu-image-not-hovered"><img width="26" height="26"   alt="" decoding="async" data-src="https://duck.design/wp-content/uploads/2022/06/menu-nft.svg" class="menu-image menu-image-title-after lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img width="26" height="26" src="wp-content/uploads/2022/06/menu-nft.svg" class="menu-image menu-image-title-after" alt="" decoding="async" /></noscript><span class="menu-image-title-after menu-image-title">Amazon Design</span></a></li>
+	<li id="menu-item-1338" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-1323 current_page_item menu-item-1338"><a href="startup-design-services/140" aria-current="page" class="menu-image-title-after menu-image-not-hovered"><img width="26" height="26"   alt="" decoding="async" data-src="https://duck.design/wp-content/uploads/2022/06/menu-startup.svg" class="menu-image menu-image-title-after lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img width="26" height="26"   alt="" decoding="async" data-src="https://duck.design/wp-content/uploads/2022/06/menu-startup.svg" class="menu-image menu-image-title-after lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img width="26" height="26"   alt="" decoding="async" data-src="https://duck.design/wp-content/uploads/2022/06/menu-startup.svg" class="menu-image menu-image-title-after lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img width="26" height="26" src="wp-content/uploads/2022/06/menu-startup.svg" class="menu-image menu-image-title-after" alt="" decoding="async" /></noscript></noscript></noscript><span class="menu-image-title-after menu-image-title">Startup Design</span></a></li>
+	<li id="menu-item-1339" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1339"><a href="software-design-services/140" class="menu-image-title-after menu-image-not-hovered"><img width="26" height="26"   alt="" decoding="async" data-src="https://duck.design/wp-content/uploads/2022/06/menu-soft.svg" class="menu-image menu-image-title-after lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img width="26" height="26"   alt="" decoding="async" data-src="https://duck.design/wp-content/uploads/2022/06/menu-soft.svg" class="menu-image menu-image-title-after lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img width="26" height="26"   alt="" decoding="async" data-src="https://duck.design/wp-content/uploads/2022/06/menu-soft.svg" class="menu-image menu-image-title-after lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img width="26" height="26" src="wp-content/uploads/2022/06/menu-soft.svg" class="menu-image menu-image-title-after" alt="" decoding="async" /></noscript></noscript></noscript><span class="menu-image-title-after menu-image-title">Software Design</span></a></li>
+</ul>
+</li>
+<li id="menu-item-393" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-393"><a href="startup-design-services/140#">Our Works</a>
+<ul class="sub-menu">
+	<li id="menu-item-149" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-149"><a href="index.html?p=140" class="menu-image-title-after menu-image-not-hovered"><img width="25" height="21"   alt="" decoding="async" data-src="https://duck.design/wp-content/uploads/2022/06/menu-portfolio.svg" class="menu-image menu-image-title-after lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img width="25" height="21"   alt="" decoding="async" data-src="https://duck.design/wp-content/uploads/2022/06/menu-portfolio.svg" class="menu-image menu-image-title-after lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img width="25" height="21"   alt="" decoding="async" data-src="https://duck.design/wp-content/uploads/2022/06/menu-portfolio.svg" class="menu-image menu-image-title-after lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img width="25" height="21"   alt="" decoding="async" data-src="https://duck.design/wp-content/uploads/2022/06/menu-portfolio.svg" class="menu-image menu-image-title-after lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img width="25" height="21" src="wp-content/uploads/2022/06/menu-portfolio.svg" class="menu-image menu-image-title-after" alt="" decoding="async" /></noscript></noscript></noscript></noscript><span class="menu-image-title-after menu-image-title">Portfolio</span></a></li>
+	<li id="menu-item-396" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-396"><a href="index.html?p=394" class="menu-image-title-after menu-image-not-hovered"><img width="26" height="26"   alt="" decoding="async" data-src="https://duck.design/wp-content/uploads/2022/06/menu-case.svg" class="menu-image menu-image-title-after lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img width="26" height="26"   alt="" decoding="async" data-src="https://duck.design/wp-content/uploads/2022/06/menu-case.svg" class="menu-image menu-image-title-after lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img width="26" height="26" src="wp-content/uploads/2022/06/menu-case.svg" class="menu-image menu-image-title-after" alt="" decoding="async" /></noscript></noscript><span class="menu-image-title-after menu-image-title">Case Studies</span></a></li>
+</ul>
+</li>
+<li id="menu-item-146" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-146"><a href="index.html?p=142">About</a></li>
+<li id="menu-item-154" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-154"><a href="index.html?p=151">Contact Us</a></li>
+</ul>
+            <a href="index.html?p=151" id="bookcall" target="_self" class="btn menu__cta">Book a Call</a>
+
+            <ul id="menu-languages-menu-en" class="menu__languages"><li id="menu-item-685" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-685"><a href="index.html?p=682">DE</a></li>
+</ul>
+            <div class="megamenu js-megamenu">
+                <div class="megamenu__row">
+                    <ul id="menu-graphic-menu" class="megamenu__list"><li id="menu-item-1923" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1923"><a href="index.html?p=1003" class="menu-image-title-after menu-image-not-hovered"><img width="26" height="26"   alt="" decoding="async" data-src="https://duck.design/wp-content/uploads/2022/06/menu-gr-design.svg" class="menu-image menu-image-title-after lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img width="26" height="26"   alt="" decoding="async" data-src="https://duck.design/wp-content/uploads/2022/06/menu-gr-design.svg" class="menu-image menu-image-title-after lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img width="26" height="26"   alt="" decoding="async" data-src="https://duck.design/wp-content/uploads/2022/06/menu-gr-design.svg" class="menu-image menu-image-title-after lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img width="26" height="26" src="wp-content/uploads/2022/06/menu-gr-design.svg" class="menu-image menu-image-title-after" alt="" decoding="async" /></noscript></noscript></noscript><span class="menu-image-title-after menu-image-title">Graphic Design</span></a></li>
+<li id="menu-item-1920" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1920"><a href="index.html?p=1122" class="menu-image-title-after menu-image-not-hovered"><img width="27" height="20"   alt="" decoding="async" data-src="https://duck.design/wp-content/uploads/2022/06/menu-adv-marketing.svg" class="menu-image menu-image-title-after lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img width="27" height="20"   alt="" decoding="async" data-src="https://duck.design/wp-content/uploads/2022/06/menu-adv-marketing.svg" class="menu-image menu-image-title-after lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img width="27" height="20"   alt="" decoding="async" data-src="https://duck.design/wp-content/uploads/2022/06/menu-adv-marketing.svg" class="menu-image menu-image-title-after lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img width="27" height="20" src="wp-content/uploads/2022/06/menu-adv-marketing.svg" class="menu-image menu-image-title-after" alt="" decoding="async" /></noscript></noscript></noscript><span class="menu-image-title-after menu-image-title">Advertising &#038; Marketing</span></a></li>
+<li id="menu-item-2220" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2220"><a href="index.html?p=597" class="menu-image-title-after menu-image-not-hovered"><img width="20" height="20"   alt="" decoding="async" data-src="https://duck.design/wp-content/uploads/2022/06/menu-motion.svg" class="menu-image menu-image-title-after lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img width="20" height="20"   alt="" decoding="async" data-src="https://duck.design/wp-content/uploads/2022/06/menu-motion.svg" class="menu-image menu-image-title-after lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img width="20" height="20"   alt="" decoding="async" data-src="https://duck.design/wp-content/uploads/2022/06/menu-motion.svg" class="menu-image menu-image-title-after lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img width="20" height="20" src="wp-content/uploads/2022/06/menu-motion.svg" class="menu-image menu-image-title-after" alt="" decoding="async" /></noscript></noscript></noscript><span class="menu-image-title-after menu-image-title">Motion Graphics</span></a></li>
+<li id="menu-item-1922" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1922"><a href="brand-identity-design-services/140" class="menu-image-title-after menu-image-not-hovered"><img width="24" height="24"   alt="" decoding="async" data-src="https://duck.design/wp-content/uploads/2022/06/menu-brand-design.svg" class="menu-image menu-image-title-after lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img width="24" height="24"   alt="" decoding="async" data-src="https://duck.design/wp-content/uploads/2022/06/menu-brand-design.svg" class="menu-image menu-image-title-after lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img width="24" height="24"   alt="" decoding="async" data-src="https://duck.design/wp-content/uploads/2022/06/menu-brand-design.svg" class="menu-image menu-image-title-after lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img width="24" height="24" src="wp-content/uploads/2022/06/menu-brand-design.svg" class="menu-image menu-image-title-after" alt="" decoding="async" /></noscript></noscript></noscript><span class="menu-image-title-after menu-image-title">Brand Identity Design</span></a></li>
+<li id="menu-item-2219" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2219"><a href="app-ui-ux-design-services/140" class="menu-image-title-after menu-image-not-hovered"><img width="20" height="24"   alt="" decoding="async" data-src="https://duck.design/wp-content/uploads/2022/06/menu-ui-design.svg" class="menu-image menu-image-title-after lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img width="20" height="24"   alt="" decoding="async" data-src="https://duck.design/wp-content/uploads/2022/06/menu-ui-design.svg" class="menu-image menu-image-title-after lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img width="20" height="24"   alt="" decoding="async" data-src="https://duck.design/wp-content/uploads/2022/06/menu-ui-design.svg" class="menu-image menu-image-title-after lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img width="20" height="24" src="wp-content/uploads/2022/06/menu-ui-design.svg" class="menu-image menu-image-title-after" alt="" decoding="async" /></noscript></noscript></noscript><span class="menu-image-title-after menu-image-title">App UI/UX Design</span></a></li>
+<li id="menu-item-1925" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1925"><a href="powerpoint-design-services/140" class="menu-image-title-after menu-image-not-hovered"><img width="26" height="27"   alt="" decoding="async" data-src="https://duck.design/wp-content/uploads/2022/06/menu-powerpoint.svg" class="menu-image menu-image-title-after lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img width="26" height="27"   alt="" decoding="async" data-src="https://duck.design/wp-content/uploads/2022/06/menu-powerpoint.svg" class="menu-image menu-image-title-after lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img width="26" height="27"   alt="" decoding="async" data-src="https://duck.design/wp-content/uploads/2022/06/menu-powerpoint.svg" class="menu-image menu-image-title-after lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img width="26" height="27" src="wp-content/uploads/2022/06/menu-powerpoint.svg" class="menu-image menu-image-title-after" alt="" decoding="async" /></noscript></noscript></noscript><span class="menu-image-title-after menu-image-title">PowerPoint Design</span></a></li>
+</ul>                </div>
+                <div class="megamenu__row">
+                    <ul id="menu-ui-ux-design" class="megamenu__list"><li id="menu-item-2217" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2217"><a href="infographic-design-and-custom-illustration-services/140" class="menu-image-title-after menu-image-not-hovered"><img width="27" height="26"   alt="" decoding="async" data-src="https://duck.design/wp-content/uploads/2022/06/menu-infographik.svg" class="menu-image menu-image-title-after lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img width="27" height="26"   alt="" decoding="async" data-src="https://duck.design/wp-content/uploads/2022/06/menu-infographik.svg" class="menu-image menu-image-title-after lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img width="27" height="26"   alt="" decoding="async" data-src="https://duck.design/wp-content/uploads/2022/06/menu-infographik.svg" class="menu-image menu-image-title-after lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img width="27" height="26" src="wp-content/uploads/2022/06/menu-infographik.svg" class="menu-image menu-image-title-after" alt="" decoding="async" /></noscript></noscript></noscript><span class="menu-image-title-after menu-image-title">Infographic Design &#038; Illustration</span></a></li>
+<li id="menu-item-2218" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2218"><a href="print-merchandise-and-packaging-design-services/140" class="menu-image-title-after menu-image-not-hovered"><img width="27" height="26"   alt="" decoding="async" data-src="https://duck.design/wp-content/uploads/2022/06/menu-print2.svg" class="menu-image menu-image-title-after lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img width="27" height="26"   alt="" decoding="async" data-src="https://duck.design/wp-content/uploads/2022/06/menu-print2.svg" class="menu-image menu-image-title-after lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img width="27" height="26"   alt="" decoding="async" data-src="https://duck.design/wp-content/uploads/2022/06/menu-print2.svg" class="menu-image menu-image-title-after lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img width="27" height="26" src="wp-content/uploads/2022/06/menu-print2.svg" class="menu-image menu-image-title-after" alt="" decoding="async" /></noscript></noscript></noscript><span class="menu-image-title-after menu-image-title">Print, Merchandise &#038; Packaging Design</span></a></li>
+<li id="menu-item-1913" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1913"><a href="website-design-services/140" class="menu-image-title-after menu-image-not-hovered"><img width="27" height="27"   alt="" decoding="async" data-src="https://duck.design/wp-content/uploads/2022/06/menu-website.svg" class="menu-image menu-image-title-after lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img width="27" height="27"   alt="" decoding="async" data-src="https://duck.design/wp-content/uploads/2022/06/menu-website.svg" class="menu-image menu-image-title-after lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img width="27" height="27"   alt="" decoding="async" data-src="https://duck.design/wp-content/uploads/2022/06/menu-website.svg" class="menu-image menu-image-title-after lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img width="27" height="27" src="wp-content/uploads/2022/06/menu-website.svg" class="menu-image menu-image-title-after" alt="" decoding="async" /></noscript></noscript></noscript><span class="menu-image-title-after menu-image-title">Website Design</span></a></li>
+<li id="menu-item-1915" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1915"><a href="landing-page-design-services/140" class="menu-image-title-after menu-image-not-hovered"><img width="27" height="27"   alt="" decoding="async" data-src="https://duck.design/wp-content/uploads/2022/06/menu-landing.svg" class="menu-image menu-image-title-after lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img width="27" height="27"   alt="" decoding="async" data-src="https://duck.design/wp-content/uploads/2022/06/menu-landing.svg" class="menu-image menu-image-title-after lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img width="27" height="27"   alt="" decoding="async" data-src="https://duck.design/wp-content/uploads/2022/06/menu-landing.svg" class="menu-image menu-image-title-after lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img width="27" height="27" src="wp-content/uploads/2022/06/menu-landing.svg" class="menu-image menu-image-title-after" alt="" decoding="async" /></noscript></noscript></noscript><span class="menu-image-title-after menu-image-title">Landing Page Design</span></a></li>
+<li id="menu-item-1916" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1916"><a href="saas-product-design-services/140" class="menu-image-title-after menu-image-not-hovered"><img width="27" height="27"   alt="" decoding="async" data-src="https://duck.design/wp-content/uploads/2022/06/menu-sass.svg" class="menu-image menu-image-title-after lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img width="27" height="27"   alt="" decoding="async" data-src="https://duck.design/wp-content/uploads/2022/06/menu-sass.svg" class="menu-image menu-image-title-after lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img width="27" height="27"   alt="" decoding="async" data-src="https://duck.design/wp-content/uploads/2022/06/menu-sass.svg" class="menu-image menu-image-title-after lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img width="27" height="27" src="wp-content/uploads/2022/06/menu-sass.svg" class="menu-image menu-image-title-after" alt="" decoding="async" /></noscript></noscript></noscript><span class="menu-image-title-after menu-image-title">SaaS Product Design</span></a></li>
+</ul>                </div>
+                <div class="megamenu__row">
+                    <ul id="menu-motion" class="megamenu__list"><li id="menu-item-2213" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2213"><a href="ux-ui-design-services/140" class="menu-image-title-after menu-image-not-hovered"><img width="26" height="26"   alt="" decoding="async" data-src="https://duck.design/wp-content/uploads/2022/06/menu-ux.svg" class="menu-image menu-image-title-after lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img width="26" height="26"   alt="" decoding="async" data-src="https://duck.design/wp-content/uploads/2022/06/menu-ux.svg" class="menu-image menu-image-title-after lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img width="26" height="26"   alt="" decoding="async" data-src="https://duck.design/wp-content/uploads/2022/06/menu-ux.svg" class="menu-image menu-image-title-after lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img width="26" height="26" src="wp-content/uploads/2022/06/menu-ux.svg" class="menu-image menu-image-title-after" alt="" decoding="async" /></noscript></noscript></noscript><span class="menu-image-title-after menu-image-title">UI/UX Design</span></a></li>
+<li id="menu-item-2214" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-1323 current_page_item menu-item-2214"><a href="startup-design-services/140" aria-current="page" class="menu-image-title-after menu-image-not-hovered"><img width="26" height="26"   alt="" decoding="async" data-src="https://duck.design/wp-content/uploads/2022/06/menu-startup.svg" class="menu-image menu-image-title-after lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img width="26" height="26"   alt="" decoding="async" data-src="https://duck.design/wp-content/uploads/2022/06/menu-startup.svg" class="menu-image menu-image-title-after lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img width="26" height="26"   alt="" decoding="async" data-src="https://duck.design/wp-content/uploads/2022/06/menu-startup.svg" class="menu-image menu-image-title-after lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img width="26" height="26" src="wp-content/uploads/2022/06/menu-startup.svg" class="menu-image menu-image-title-after" alt="" decoding="async" /></noscript></noscript></noscript><span class="menu-image-title-after menu-image-title">Startup Design</span></a></li>
+<li id="menu-item-2215" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2215"><a href="software-design-services/140" class="menu-image-title-after menu-image-not-hovered"><img width="26" height="26"   alt="" decoding="async" data-src="https://duck.design/wp-content/uploads/2022/06/menu-soft.svg" class="menu-image menu-image-title-after lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img width="26" height="26"   alt="" decoding="async" data-src="https://duck.design/wp-content/uploads/2022/06/menu-soft.svg" class="menu-image menu-image-title-after lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img width="26" height="26"   alt="" decoding="async" data-src="https://duck.design/wp-content/uploads/2022/06/menu-soft.svg" class="menu-image menu-image-title-after lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img width="26" height="26" src="wp-content/uploads/2022/06/menu-soft.svg" class="menu-image menu-image-title-after" alt="" decoding="async" /></noscript></noscript></noscript><span class="menu-image-title-after menu-image-title">Software Design</span></a></li>
+<li id="menu-item-2222" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2222"><a href="amazon-design-services/140" class="menu-image-title-after menu-image-not-hovered"><img width="25" height="21"   alt="" decoding="async" data-src="https://duck.design/wp-content/uploads/2022/06/menu-portfolio.svg" class="menu-image menu-image-title-after lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img width="25" height="21"   alt="" decoding="async" data-src="https://duck.design/wp-content/uploads/2022/06/menu-portfolio.svg" class="menu-image menu-image-title-after lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img width="25" height="21"   alt="" decoding="async" data-src="https://duck.design/wp-content/uploads/2022/06/menu-portfolio.svg" class="menu-image menu-image-title-after lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img width="25" height="21"   alt="" decoding="async" data-src="https://duck.design/wp-content/uploads/2022/06/menu-portfolio.svg" class="menu-image menu-image-title-after lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img width="25" height="21" src="wp-content/uploads/2022/06/menu-portfolio.svg" class="menu-image menu-image-title-after" alt="" decoding="async" /></noscript></noscript></noscript></noscript><span class="menu-image-title-after menu-image-title">Amazon Design</span></a></li>
+</ul>                </div>
+            </div>
+        </nav>
+        
+        <div class="menu-mobile js-menu-mobile">
+            <button class="btn menu-mobile__close js-menu-close" type="button">
+                <span>
+                    Close Mobile Menu
+                </span>
+            </button>
+
+            <a href="index.html" class="menu-mobile__logo">
+               <img  alt="Duck Design logo" width="120" height="33" data-src="https://duck.design/wp-content/themes/duckdesign/assets/img/logo.svg" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img src="wp-content/themes/duckdesign/assets/img/logo.svg" alt="Duck Design logo" width="120" height="33"></noscript>
+            </a>
+
+            <ul id="menu-mobile-menu" class="menu-mobile__list"><li id="menu-item-670" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-670"><a href="index.html?p=136">Pricing</a></li>
+<li id="menu-item-1265" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-ancestor current-menu-parent menu-item-has-children menu-item-1265"><a href="startup-design-services/140#">Capabilities</a>
+<ul class="sub-menu">
+	<li id="menu-item-1275" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1275"><a href="index.html?p=1003" class="menu-image-title-after menu-image-not-hovered"><img width="26" height="26"   alt="" decoding="async" data-src="https://duck.design/wp-content/uploads/2022/06/menu-gr-design.svg" class="menu-image menu-image-title-after lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img width="26" height="26"   alt="" decoding="async" data-src="https://duck.design/wp-content/uploads/2022/06/menu-gr-design.svg" class="menu-image menu-image-title-after lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img width="26" height="26"   alt="" decoding="async" data-src="https://duck.design/wp-content/uploads/2022/06/menu-gr-design.svg" class="menu-image menu-image-title-after lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img width="26" height="26" src="wp-content/uploads/2022/06/menu-gr-design.svg" class="menu-image menu-image-title-after" alt="" decoding="async" /></noscript></noscript></noscript><span class="menu-image-title-after menu-image-title">Graphic Design</span></a></li>
+	<li id="menu-item-1274" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1274"><a href="index.html?p=1122" class="menu-image-title-after menu-image-not-hovered"><img width="27" height="20"   alt="" decoding="async" data-src="https://duck.design/wp-content/uploads/2022/06/menu-adv-marketing.svg" class="menu-image menu-image-title-after lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img width="27" height="20"   alt="" decoding="async" data-src="https://duck.design/wp-content/uploads/2022/06/menu-adv-marketing.svg" class="menu-image menu-image-title-after lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img width="27" height="20"   alt="" decoding="async" data-src="https://duck.design/wp-content/uploads/2022/06/menu-adv-marketing.svg" class="menu-image menu-image-title-after lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img width="27" height="20" src="wp-content/uploads/2022/06/menu-adv-marketing.svg" class="menu-image menu-image-title-after" alt="" decoding="async" /></noscript></noscript></noscript><span class="menu-image-title-after menu-image-title">Advertising &#038; Marketing</span></a></li>
+	<li id="menu-item-1276" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1276"><a href="index.html?p=597" class="menu-image-title-after menu-image-not-hovered"><img width="20" height="20"   alt="" decoding="async" data-src="https://duck.design/wp-content/uploads/2022/06/menu-motion.svg" class="menu-image menu-image-title-after lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img width="20" height="20"   alt="" decoding="async" data-src="https://duck.design/wp-content/uploads/2022/06/menu-motion.svg" class="menu-image menu-image-title-after lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img width="20" height="20"   alt="" decoding="async" data-src="https://duck.design/wp-content/uploads/2022/06/menu-motion.svg" class="menu-image menu-image-title-after lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img width="20" height="20" src="wp-content/uploads/2022/06/menu-motion.svg" class="menu-image menu-image-title-after" alt="" decoding="async" /></noscript></noscript></noscript><span class="menu-image-title-after menu-image-title">Motion Graphics</span></a></li>
+	<li id="menu-item-1273" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1273"><a href="infographic-design-and-custom-illustration-services/140" class="menu-image-title-after menu-image-not-hovered"><img width="27" height="26"   alt="" decoding="async" data-src="https://duck.design/wp-content/uploads/2022/06/menu-infographik.svg" class="menu-image menu-image-title-after lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img width="27" height="26"   alt="" decoding="async" data-src="https://duck.design/wp-content/uploads/2022/06/menu-infographik.svg" class="menu-image menu-image-title-after lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img width="27" height="26"   alt="" decoding="async" data-src="https://duck.design/wp-content/uploads/2022/06/menu-infographik.svg" class="menu-image menu-image-title-after lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img width="27" height="26" src="wp-content/uploads/2022/06/menu-infographik.svg" class="menu-image menu-image-title-after" alt="" decoding="async" /></noscript></noscript></noscript><span class="menu-image-title-after menu-image-title">Infographic Design &#038; Illustration</span></a></li>
+	<li id="menu-item-1272" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1272"><a href="brand-identity-design-services/140" class="menu-image-title-after menu-image-not-hovered"><img width="24" height="24"   alt="" decoding="async" data-src="https://duck.design/wp-content/uploads/2022/06/menu-brand-design.svg" class="menu-image menu-image-title-after lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img width="24" height="24"   alt="" decoding="async" data-src="https://duck.design/wp-content/uploads/2022/06/menu-brand-design.svg" class="menu-image menu-image-title-after lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img width="24" height="24"   alt="" decoding="async" data-src="https://duck.design/wp-content/uploads/2022/06/menu-brand-design.svg" class="menu-image menu-image-title-after lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img width="24" height="24" src="wp-content/uploads/2022/06/menu-brand-design.svg" class="menu-image menu-image-title-after" alt="" decoding="async" /></noscript></noscript></noscript><span class="menu-image-title-after menu-image-title">Brand Identity Design</span></a></li>
+	<li id="menu-item-1271" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1271"><a href="print-merchandise-and-packaging-design-services/140" class="menu-image-title-after menu-image-not-hovered"><img width="27" height="26"   alt="" decoding="async" data-src="https://duck.design/wp-content/uploads/2022/06/menu-print2.svg" class="menu-image menu-image-title-after lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img width="27" height="26"   alt="" decoding="async" data-src="https://duck.design/wp-content/uploads/2022/06/menu-print2.svg" class="menu-image menu-image-title-after lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img width="27" height="26"   alt="" decoding="async" data-src="https://duck.design/wp-content/uploads/2022/06/menu-print2.svg" class="menu-image menu-image-title-after lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img width="27" height="26" src="wp-content/uploads/2022/06/menu-print2.svg" class="menu-image menu-image-title-after" alt="" decoding="async" /></noscript></noscript></noscript><span class="menu-image-title-after menu-image-title">Print, Merchandise &#038; Packaging Design</span></a></li>
+	<li id="menu-item-1344" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1344"><a href="ux-ui-design-services/140" class="menu-image-title-after menu-image-not-hovered"><img width="26" height="26"   alt="" decoding="async" data-src="https://duck.design/wp-content/uploads/2022/06/menu-ux.svg" class="menu-image menu-image-title-after lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img width="26" height="26"   alt="" decoding="async" data-src="https://duck.design/wp-content/uploads/2022/06/menu-ux.svg" class="menu-image menu-image-title-after lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img width="26" height="26"   alt="" decoding="async" data-src="https://duck.design/wp-content/uploads/2022/06/menu-ux.svg" class="menu-image menu-image-title-after lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img width="26" height="26" src="wp-content/uploads/2022/06/menu-ux.svg" class="menu-image menu-image-title-after" alt="" decoding="async" /></noscript></noscript></noscript><span class="menu-image-title-after menu-image-title">UI/UX Design</span></a></li>
+	<li id="menu-item-1267" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1267"><a href="app-ui-ux-design-services/140" class="menu-image-title-after menu-image-not-hovered"><img width="20" height="24"   alt="" decoding="async" data-src="https://duck.design/wp-content/uploads/2022/06/menu-ui-design.svg" class="menu-image menu-image-title-after lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img width="20" height="24"   alt="" decoding="async" data-src="https://duck.design/wp-content/uploads/2022/06/menu-ui-design.svg" class="menu-image menu-image-title-after lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img width="20" height="24"   alt="" decoding="async" data-src="https://duck.design/wp-content/uploads/2022/06/menu-ui-design.svg" class="menu-image menu-image-title-after lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img width="20" height="24" src="wp-content/uploads/2022/06/menu-ui-design.svg" class="menu-image menu-image-title-after" alt="" decoding="async" /></noscript></noscript></noscript><span class="menu-image-title-after menu-image-title">App UI/UX Design</span></a></li>
+	<li id="menu-item-1268" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1268"><a href="website-design-services/140" class="menu-image-title-after menu-image-not-hovered"><img width="27" height="27"   alt="" decoding="async" data-src="https://duck.design/wp-content/uploads/2022/06/menu-website.svg" class="menu-image menu-image-title-after lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img width="27" height="27"   alt="" decoding="async" data-src="https://duck.design/wp-content/uploads/2022/06/menu-website.svg" class="menu-image menu-image-title-after lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img width="27" height="27"   alt="" decoding="async" data-src="https://duck.design/wp-content/uploads/2022/06/menu-website.svg" class="menu-image menu-image-title-after lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img width="27" height="27" src="wp-content/uploads/2022/06/menu-website.svg" class="menu-image menu-image-title-after" alt="" decoding="async" /></noscript></noscript></noscript><span class="menu-image-title-after menu-image-title">Website Design</span></a></li>
+	<li id="menu-item-1270" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1270"><a href="landing-page-design-services/140" class="menu-image-title-after menu-image-not-hovered"><img width="27" height="27"   alt="" decoding="async" data-src="https://duck.design/wp-content/uploads/2022/06/menu-landing.svg" class="menu-image menu-image-title-after lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img width="27" height="27"   alt="" decoding="async" data-src="https://duck.design/wp-content/uploads/2022/06/menu-landing.svg" class="menu-image menu-image-title-after lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img width="27" height="27"   alt="" decoding="async" data-src="https://duck.design/wp-content/uploads/2022/06/menu-landing.svg" class="menu-image menu-image-title-after lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img width="27" height="27" src="wp-content/uploads/2022/06/menu-landing.svg" class="menu-image menu-image-title-after" alt="" decoding="async" /></noscript></noscript></noscript><span class="menu-image-title-after menu-image-title">Landing Page Design</span></a></li>
+	<li id="menu-item-1269" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1269"><a href="powerpoint-design-services/140" class="menu-image-title-after menu-image-not-hovered"><img width="26" height="27"   alt="" decoding="async" data-src="https://duck.design/wp-content/uploads/2022/06/menu-powerpoint.svg" class="menu-image menu-image-title-after lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img width="26" height="27"   alt="" decoding="async" data-src="https://duck.design/wp-content/uploads/2022/06/menu-powerpoint.svg" class="menu-image menu-image-title-after lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img width="26" height="27"   alt="" decoding="async" data-src="https://duck.design/wp-content/uploads/2022/06/menu-powerpoint.svg" class="menu-image menu-image-title-after lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img width="26" height="27" src="wp-content/uploads/2022/06/menu-powerpoint.svg" class="menu-image menu-image-title-after" alt="" decoding="async" /></noscript></noscript></noscript><span class="menu-image-title-after menu-image-title">PowerPoint Design</span></a></li>
+	<li id="menu-item-1266" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1266"><a href="saas-product-design-services/140" class="menu-image-title-after menu-image-not-hovered"><img width="27" height="27"   alt="" decoding="async" data-src="https://duck.design/wp-content/uploads/2022/06/menu-sass.svg" class="menu-image menu-image-title-after lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img width="27" height="27"   alt="" decoding="async" data-src="https://duck.design/wp-content/uploads/2022/06/menu-sass.svg" class="menu-image menu-image-title-after lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img width="27" height="27"   alt="" decoding="async" data-src="https://duck.design/wp-content/uploads/2022/06/menu-sass.svg" class="menu-image menu-image-title-after lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img width="27" height="27" src="wp-content/uploads/2022/06/menu-sass.svg" class="menu-image menu-image-title-after" alt="" decoding="async" /></noscript></noscript></noscript><span class="menu-image-title-after menu-image-title">SaaS Product Design</span></a></li>
+	<li id="menu-item-1341" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1341"><a href="amazon-design-services/140" class="menu-image-title-after menu-image-not-hovered"><img width="25" height="21"   alt="" decoding="async" data-src="https://duck.design/wp-content/uploads/2022/06/menu-portfolio.svg" class="menu-image menu-image-title-after lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img width="25" height="21"   alt="" decoding="async" data-src="https://duck.design/wp-content/uploads/2022/06/menu-portfolio.svg" class="menu-image menu-image-title-after lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img width="25" height="21"   alt="" decoding="async" data-src="https://duck.design/wp-content/uploads/2022/06/menu-portfolio.svg" class="menu-image menu-image-title-after lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img width="25" height="21"   alt="" decoding="async" data-src="https://duck.design/wp-content/uploads/2022/06/menu-portfolio.svg" class="menu-image menu-image-title-after lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img width="25" height="21" src="wp-content/uploads/2022/06/menu-portfolio.svg" class="menu-image menu-image-title-after" alt="" decoding="async" /></noscript></noscript></noscript></noscript><span class="menu-image-title-after menu-image-title">Amazon Design</span></a></li>
+	<li id="menu-item-1342" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-1323 current_page_item menu-item-1342"><a href="startup-design-services/140" aria-current="page" class="menu-image-title-after menu-image-not-hovered"><img width="26" height="26"   alt="" decoding="async" data-src="https://duck.design/wp-content/uploads/2022/06/menu-startup.svg" class="menu-image menu-image-title-after lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img width="26" height="26"   alt="" decoding="async" data-src="https://duck.design/wp-content/uploads/2022/06/menu-startup.svg" class="menu-image menu-image-title-after lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img width="26" height="26"   alt="" decoding="async" data-src="https://duck.design/wp-content/uploads/2022/06/menu-startup.svg" class="menu-image menu-image-title-after lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img width="26" height="26" src="wp-content/uploads/2022/06/menu-startup.svg" class="menu-image menu-image-title-after" alt="" decoding="async" /></noscript></noscript></noscript><span class="menu-image-title-after menu-image-title">Startup Design</span></a></li>
+	<li id="menu-item-1343" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1343"><a href="software-design-services/140" class="menu-image-title-after menu-image-not-hovered"><img width="26" height="26"   alt="" decoding="async" data-src="https://duck.design/wp-content/uploads/2022/06/menu-soft.svg" class="menu-image menu-image-title-after lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img width="26" height="26"   alt="" decoding="async" data-src="https://duck.design/wp-content/uploads/2022/06/menu-soft.svg" class="menu-image menu-image-title-after lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img width="26" height="26"   alt="" decoding="async" data-src="https://duck.design/wp-content/uploads/2022/06/menu-soft.svg" class="menu-image menu-image-title-after lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img width="26" height="26" src="wp-content/uploads/2022/06/menu-soft.svg" class="menu-image menu-image-title-after" alt="" decoding="async" /></noscript></noscript></noscript><span class="menu-image-title-after menu-image-title">Software Design</span></a></li>
+</ul>
+</li>
+<li id="menu-item-673" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-673"><a href="startup-design-services/140#">Our Works</a>
+<ul class="sub-menu">
+	<li id="menu-item-671" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-671"><a href="index.html?p=140" class="menu-image-title-after menu-image-not-hovered"><img width="25" height="21"   alt="" decoding="async" data-src="https://duck.design/wp-content/uploads/2022/06/menu-portfolio.svg" class="menu-image menu-image-title-after lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img width="25" height="21"   alt="" decoding="async" data-src="https://duck.design/wp-content/uploads/2022/06/menu-portfolio.svg" class="menu-image menu-image-title-after lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img width="25" height="21"   alt="" decoding="async" data-src="https://duck.design/wp-content/uploads/2022/06/menu-portfolio.svg" class="menu-image menu-image-title-after lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img width="25" height="21"   alt="" decoding="async" data-src="https://duck.design/wp-content/uploads/2022/06/menu-portfolio.svg" class="menu-image menu-image-title-after lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img width="25" height="21" src="wp-content/uploads/2022/06/menu-portfolio.svg" class="menu-image menu-image-title-after" alt="" decoding="async" /></noscript></noscript></noscript></noscript><span class="menu-image-title-after menu-image-title">Portfolio</span></a></li>
+	<li id="menu-item-669" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-669"><a href="index.html?p=394" class="menu-image-title-after menu-image-not-hovered"><img width="26" height="26"   alt="" decoding="async" data-src="https://duck.design/wp-content/uploads/2022/06/menu-case.svg" class="menu-image menu-image-title-after lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img width="26" height="26"   alt="" decoding="async" data-src="https://duck.design/wp-content/uploads/2022/06/menu-case.svg" class="menu-image menu-image-title-after lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img width="26" height="26" src="wp-content/uploads/2022/06/menu-case.svg" class="menu-image menu-image-title-after" alt="" decoding="async" /></noscript></noscript><span class="menu-image-title-after menu-image-title">Case Studies</span></a></li>
+</ul>
+</li>
+<li id="menu-item-674" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-674"><a href="index.html?p=142">About</a></li>
+</ul>
+            <a href="index.html?p=151" id="bookcall" class="btn menu__cta" target="_self">Book a Call</a>
+                    
+            <ul id="menu-languages-menu-en-1" class="menu-mobile__languages"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-685"><a href="index.html?p=682">DE</a></li>
+</ul>        </div>
+
+        <button class="btn menu-btn js-menu-btn">
+            <span>Menu</span>
+        </button>
+    </div>
+</header>
+    <main class="main">
+        <section class="serv-hero-section">
+    <div class="container serv-hero-section__container">
+        <div class="serv-hero-section__main">
+            <h1 class="section-title section-title_serv-hero">
+                Startup Design Services            </h1>
+
+            <div class="section-desc section-desc_serv-hero">
+                We offer UI/UX design services for startups and established businesses and deliver mobile and web products that make the impact and win the audience's attention. We love to help great companies fulfill their potential.            </div>
+
+            <a href="index.html?p=151" class="btn serv-hero-section__link">Book a 15-min call</a>
+        </div>
+
+        <div class="serv-hero-section__img">
+            <img width="669" height="544"   alt="" decoding="async" data-src="https://duck.design/wp-content/uploads/2022/02/illustration-17.svg" class="attachment-full size-full lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img width="669" height="544" src="wp-content/uploads/2022/02/illustration-17.svg" class="attachment-full size-full" alt="" decoding="async" /></noscript>        </div>
+    </div>
+</section>        <section class="serv-services-section">
+    <div class="container">
+        <h2 class="serv-title">We're always-on to deliver the design you want when you need it</h2>
+
+        <div class="serv-services-section__items">
+                            <div class="serv-service">
+    <div class="serv-service__img">
+        <img width="130" height="100"   alt="" decoding="async" data-src="https://duck.design/wp-content/uploads/2022/02/Illustration-1-12.svg" class="attachment-full size-full lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img width="130" height="100" src="wp-content/uploads/2022/02/Illustration-1-12.svg" class="attachment-full size-full" alt="" decoding="async" /></noscript>    </div>
+
+    <h3 class="serv-service__title">All digital & print graphics</h3>
+    <p class="serv-service__desc">Thousands of types of digital and print graphics covered. Anything you need, there’s always a Penji designer who can design it.</p>
+</div>                            <div class="serv-service">
+    <div class="serv-service__img">
+        <img width="130" height="100"   alt="" decoding="async" data-src="https://duck.design/wp-content/uploads/2022/02/Illustration-2-12.svg" class="attachment-full size-full lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img width="130" height="100" src="wp-content/uploads/2022/02/Illustration-2-12.svg" class="attachment-full size-full" alt="" decoding="async" /></noscript>    </div>
+
+    <h3 class="serv-service__title">Marketing & Ads</h3>
+    <p class="serv-service__desc">Work with designers who understand how to design marketing materials and advertisements that speak to your audience.</p>
+</div>                            <div class="serv-service">
+    <div class="serv-service__img">
+        <img width="130" height="100"   alt="" decoding="async" data-src="https://duck.design/wp-content/uploads/2022/02/Illustration-3-11.svg" class="attachment-full size-full lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img width="130" height="100" src="wp-content/uploads/2022/02/Illustration-3-11.svg" class="attachment-full size-full" alt="" decoding="async" /></noscript>    </div>
+
+    <h3 class="serv-service__title">UX/UI & Illustrations</h3>
+    <p class="serv-service__desc">Nothing is too complex for us. Logos, websites, apps, pitch decks, and custom illustrations are all within our wheelhouse.</p>
+</div>                    </div>
+    </div>
+</section>        <section class="serv-portfolio-section">
+    <div class="container">
+        <header class="serv-portfolio-section__header">
+            <h2 class="serv-title">
+                Take a look at some of our Startup Design work            </h2>
+        </header>
+    </div>
+
+    <div class="serv-portfolio-section__items js-services-lightbox">
+                                                        <a href="startup-design-services/140"  class="serv-portfolio-section__img">
+                                            </a>
+                                                                                    <a href="wp-content/uploads/2022/02/3-6.webp"  class="serv-portfolio-section__img">
+                        <img width="1024" height="982"   alt="" decoding="async" data-srcset="https://duck.design/wp-content/uploads/2022/02/3-6-1024x982.webp 1024w, https://duck.design/wp-content/uploads/2022/02/3-6-300x288.webp 300w, https://duck.design/wp-content/uploads/2022/02/3-6-768x736.webp 768w, https://duck.design/wp-content/uploads/2022/02/3-6-1536x1473.webp 1536w, https://duck.design/wp-content/uploads/2022/02/3-6.webp 1680w"  data-src="https://duck.design/wp-content/uploads/2022/02/3-6-1024x982.webp" data-sizes="(max-width: 1024px) 100vw, 1024px" class="attachment-large size-large lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img width="1024" height="982" src="wp-content/uploads/2022/02/3-6-1024x982.webp" class="attachment-large size-large" alt="" decoding="async" srcset="wp-content/uploads/2022/02/3-6-1024x982.webp 1024w, wp-content/uploads/2022/02/3-6-300x288.webp 300w, wp-content/uploads/2022/02/3-6-768x736.webp 768w, wp-content/uploads/2022/02/3-6-1536x1473.webp 1536w, wp-content/uploads/2022/02/3-6.webp 1680w" sizes="(max-width: 1024px) 100vw, 1024px" /></noscript>                    </a>
+                                                                                    <a href="wp-content/uploads/2022/02/4-6.webp"  class="serv-portfolio-section__img">
+                        <img width="1024" height="1024"   alt="" decoding="async" data-srcset="https://duck.design/wp-content/uploads/2022/02/4-6-1024x1024.webp 1024w, https://duck.design/wp-content/uploads/2022/02/4-6-300x300.webp 300w, https://duck.design/wp-content/uploads/2022/02/4-6-150x150.webp 150w, https://duck.design/wp-content/uploads/2022/02/4-6-768x768.webp 768w, https://duck.design/wp-content/uploads/2022/02/4-6-1536x1536.webp 1536w, https://duck.design/wp-content/uploads/2022/02/4-6.webp 1680w"  data-src="https://duck.design/wp-content/uploads/2022/02/4-6-1024x1024.webp" data-sizes="(max-width: 1024px) 100vw, 1024px" class="attachment-large size-large lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img width="1024" height="1024" src="wp-content/uploads/2022/02/4-6-1024x1024.webp" class="attachment-large size-large" alt="" decoding="async" srcset="wp-content/uploads/2022/02/4-6-1024x1024.webp 1024w, wp-content/uploads/2022/02/4-6-300x300.webp 300w, wp-content/uploads/2022/02/4-6-150x150.webp 150w, wp-content/uploads/2022/02/4-6-768x768.webp 768w, wp-content/uploads/2022/02/4-6-1536x1536.webp 1536w, wp-content/uploads/2022/02/4-6.webp 1680w" sizes="(max-width: 1024px) 100vw, 1024px" /></noscript>                    </a>
+                                                                                    <a href="wp-content/uploads/2022/02/7-2.webp"  class="serv-portfolio-section__img">
+                        <img width="1024" height="1024"   alt="" decoding="async" data-srcset="https://duck.design/wp-content/uploads/2022/02/7-2-1024x1024.webp 1024w, https://duck.design/wp-content/uploads/2022/02/7-2-300x300.webp 300w, https://duck.design/wp-content/uploads/2022/02/7-2-150x150.webp 150w, https://duck.design/wp-content/uploads/2022/02/7-2-768x768.webp 768w, https://duck.design/wp-content/uploads/2022/02/7-2-1536x1536.webp 1536w, https://duck.design/wp-content/uploads/2022/02/7-2.webp 1680w"  data-src="https://duck.design/wp-content/uploads/2022/02/7-2-1024x1024.webp" data-sizes="(max-width: 1024px) 100vw, 1024px" class="attachment-large size-large lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img width="1024" height="1024" src="wp-content/uploads/2022/02/7-2-1024x1024.webp" class="attachment-large size-large" alt="" decoding="async" srcset="wp-content/uploads/2022/02/7-2-1024x1024.webp 1024w, wp-content/uploads/2022/02/7-2-300x300.webp 300w, wp-content/uploads/2022/02/7-2-150x150.webp 150w, wp-content/uploads/2022/02/7-2-768x768.webp 768w, wp-content/uploads/2022/02/7-2-1536x1536.webp 1536w, wp-content/uploads/2022/02/7-2.webp 1680w" sizes="(max-width: 1024px) 100vw, 1024px" /></noscript>                    </a>
+                                                                                    <a href="wp-content/uploads/2022/02/6-4.webp"  class="serv-portfolio-section__img">
+                        <img width="1024" height="1024"   alt="" decoding="async" data-srcset="https://duck.design/wp-content/uploads/2022/02/6-4-1024x1024.webp 1024w, https://duck.design/wp-content/uploads/2022/02/6-4-300x300.webp 300w, https://duck.design/wp-content/uploads/2022/02/6-4-150x150.webp 150w, https://duck.design/wp-content/uploads/2022/02/6-4-768x768.webp 768w, https://duck.design/wp-content/uploads/2022/02/6-4-1536x1536.webp 1536w, https://duck.design/wp-content/uploads/2022/02/6-4.webp 1680w"  data-src="https://duck.design/wp-content/uploads/2022/02/6-4-1024x1024.webp" data-sizes="(max-width: 1024px) 100vw, 1024px" class="attachment-large size-large lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img width="1024" height="1024" src="wp-content/uploads/2022/02/6-4-1024x1024.webp" class="attachment-large size-large" alt="" decoding="async" srcset="wp-content/uploads/2022/02/6-4-1024x1024.webp 1024w, wp-content/uploads/2022/02/6-4-300x300.webp 300w, wp-content/uploads/2022/02/6-4-150x150.webp 150w, wp-content/uploads/2022/02/6-4-768x768.webp 768w, wp-content/uploads/2022/02/6-4-1536x1536.webp 1536w, wp-content/uploads/2022/02/6-4.webp 1680w" sizes="(max-width: 1024px) 100vw, 1024px" /></noscript>                    </a>
+                                                                                    <a href="wp-content/uploads/2022/02/5-4.webp"  class="serv-portfolio-section__img">
+                        <img width="1024" height="1024"   alt="" decoding="async" data-srcset="https://duck.design/wp-content/uploads/2022/02/5-4-1024x1024.webp 1024w, https://duck.design/wp-content/uploads/2022/02/5-4-300x300.webp 300w, https://duck.design/wp-content/uploads/2022/02/5-4-150x150.webp 150w, https://duck.design/wp-content/uploads/2022/02/5-4-768x768.webp 768w, https://duck.design/wp-content/uploads/2022/02/5-4-1536x1536.webp 1536w, https://duck.design/wp-content/uploads/2022/02/5-4.webp 1600w"  data-src="https://duck.design/wp-content/uploads/2022/02/5-4-1024x1024.webp" data-sizes="(max-width: 1024px) 100vw, 1024px" class="attachment-large size-large lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img width="1024" height="1024" src="wp-content/uploads/2022/02/5-4-1024x1024.webp" class="attachment-large size-large" alt="" decoding="async" srcset="wp-content/uploads/2022/02/5-4-1024x1024.webp 1024w, wp-content/uploads/2022/02/5-4-300x300.webp 300w, wp-content/uploads/2022/02/5-4-150x150.webp 150w, wp-content/uploads/2022/02/5-4-768x768.webp 768w, wp-content/uploads/2022/02/5-4-1536x1536.webp 1536w, wp-content/uploads/2022/02/5-4.webp 1600w" sizes="(max-width: 1024px) 100vw, 1024px" /></noscript>                    </a>
+                                        </div>
+
+    <a href="startup-design-services/140" class="btn serv-portfolio-section__btn">See all</a>
+</section>
+        <section class="serv-price-section">
+    <div class="container">
+        <div class="serv-price-section__header">
+            <div class="serv-price-section__info">
+                <h2 class="serv-price-section__title">Graphic design + UI</h2>
+                <div class="serv-price-section__desc">High-quality custom graphics + web and UI design on-demand for your business.</div>
+                <p class="serv-price-section__price"><span>$1299</span>/mo</p>
+            </div>
+
+            <a href="https://buy.stripe.com/8wMg1Kak5daY2Fa29G" class="btn serv-price-section__btn" target="_blank" rel="nofollow noopener">Start $1299/mo</a>
+        </div>
+        
+        <ul class="serv-price-section__list">
+                            <li>Brand Guide</li>
+                            <li>Landing Page Design</li>
+                            <li>Website Design</li>
+                            <li>Presentation & Pitch Deck Design</li>
+                            <li>UI/UX</li>
+                            <li>Mobile app design</li>
+                    </ul>
+    </div>
+</section>
+        <section class="serv-advantages-section">
+    <div class="container">
+        <h2 class="serv-title serv-title_advantages">Scalable and reliable design for busy and growing teams</h2>
+
+        <div class="serv-advantages-section__items">
+                            <div class="serv-advantage">
+    <div class="serv-advantage__img">
+        <img width="124" height="116"   alt="" decoding="async" data-src="https://duck.design/wp-content/uploads/2022/01/advantage-1.svg" class="attachment-full size-full lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img width="124" height="116" src="wp-content/uploads/2022/01/advantage-1.svg" class="attachment-full size-full" alt="" decoding="async" /></noscript>    </div>
+
+    <h3 class="serv-advantage__title">Top designers</h3>
+    <p class="serv-advantage__desc">Dedicated team made up of verified super talent from
+around the world</p>
+</div>                            <div class="serv-advantage">
+    <div class="serv-advantage__img">
+        <img width="114" height="121"   alt="" decoding="async" data-src="https://duck.design/wp-content/uploads/2022/01/advantage-2.svg" class="attachment-full size-full lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img width="114" height="121" src="wp-content/uploads/2022/01/advantage-2.svg" class="attachment-full size-full" alt="" decoding="async" /></noscript>    </div>
+
+    <h3 class="serv-advantage__title">Fast turnarounds</h3>
+    <p class="serv-advantage__desc">We’re always-on with the ability to do 12- or 24-hour turnarounds</p>
+</div>                            <div class="serv-advantage">
+    <div class="serv-advantage__img">
+        <img width="107" height="113"   alt="" decoding="async" data-src="https://duck.design/wp-content/uploads/2022/01/adv-3.svg" class="attachment-full size-full lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img width="107" height="113" src="wp-content/uploads/2022/01/adv-3.svg" class="attachment-full size-full" alt="" decoding="async" /></noscript>    </div>
+
+    <h3 class="serv-advantage__title">Fully-managed</h3>
+    <p class="serv-advantage__desc">A reliable, battle-tested and fully managed process that scales with your needs</p>
+</div>                            <div class="serv-advantage">
+    <div class="serv-advantage__img">
+        <img width="114" height="121"   alt="" decoding="async" data-src="https://duck.design/wp-content/uploads/2022/01/adv-4.svg" class="attachment-full size-full lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img width="114" height="121" src="wp-content/uploads/2022/01/adv-4.svg" class="attachment-full size-full" alt="" decoding="async" /></noscript>    </div>
+
+    <h3 class="serv-advantage__title">Accurate pricing</h3>
+    <p class="serv-advantage__desc">Predictably-priced and 30% more affordable than agencies or the fully loaded costs of in-house staff</p>
+</div>                            <div class="serv-advantage">
+    <div class="serv-advantage__img">
+        <img width="109" height="113"   alt="" decoding="async" data-src="https://duck.design/wp-content/uploads/2022/01/adv-5.svg" class="attachment-full size-full lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img width="109" height="113" src="wp-content/uploads/2022/01/adv-5.svg" class="attachment-full size-full" alt="" decoding="async" /></noscript>    </div>
+
+    <h3 class="serv-advantage__title">Trained on brand guidelines</h3>
+    <p class="serv-advantage__desc">We’re always-on with the ability to do 12- or 24-hour turnarounds</p>
+</div>                            <div class="serv-advantage">
+    <div class="serv-advantage__img">
+        <img width="122" height="113"   alt="" decoding="async" data-src="https://duck.design/wp-content/uploads/2022/01/adv-6.svg" class="attachment-full size-full lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img width="122" height="113" src="wp-content/uploads/2022/01/adv-6.svg" class="attachment-full size-full" alt="" decoding="async" /></noscript>    </div>
+
+    <h3 class="serv-advantage__title">Built for enterprise</h3>
+    <p class="serv-advantage__desc">An out-of-the-box solution built for enterprise teams with security and confidentiality in mind</p>
+</div>                    </div>
+
+        <div class="serv-advantages-section__links">
+            <a href="index.html?p=151" class="btn serv-advantages-section__cta">
+                Start your project            </a>
+
+            <p class="serv-advantages-section__qa">
+                <span>Questions?</span>
+                <a href="index.html?p=151" target="_blank">Talk to an expert</a>
+            </p>
+        </div>
+    </div>
+</section>        <div class="serv-reviews">
+    <div class="container">
+        <div class="serv-reviews__items">
+            <div class="js-serv-reviews-slider">
+                                                                                <div>
+                            <article class="review review_motion wow fadeInUp" data-wow-delay="0s">
+    <header class="review__header">
+        <div class="review__img">
+            <img width="150" height="150"   alt="" decoding="async" data-src="https://duck.design/wp-content/uploads/2022/01/1.jpeg" class="attachment-full size-full lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img width="150" height="150" src="wp-content/uploads/2022/01/1.jpeg" class="attachment-full size-full" alt="" decoding="async" /></noscript>        </div>
+
+        <div class="review__info">
+            <p class="review__name">Stanislav Kostadinov</p>
+
+                            <p class="review__position">Growth Marketing Manager at <a href="https://www.olxgroup.com/" target="_blank" rel="noopener nofollow">OLX Group</a></p>
+                    </div>
+    </header>
+
+    <div class="review__main">
+        <h3 class="review__title">The team at Duck.design did a great job</h3>
+
+                    <div class="review__rating">
+                ⭐⭐⭐⭐⭐            </div>
+        
+        <p class="review__desc">
+            I've tried many other outsourcing and freelancing companies before and have been disappointed almost in all occasions. Duck.design was an entirely different experience! I am extremely happy with the results and the high quality of their work. Recommend        </p>
+
+        <div class="review__info mobile">
+                            <p class="review__position">Growth Marketing Manager at <a href="https://www.olxgroup.com/" target="_blank" rel="noopener nofollow">OLX Group</a></p>
+                        
+            <p class="review__name">Stanislav Kostadinov</p>
+        </div>
+    </div>
+</article>
+                        </div>
+                                            <div>
+                            <article class="review review_motion wow fadeInUp" data-wow-delay="0.2s">
+    <header class="review__header">
+        <div class="review__img">
+            <img width="87" height="87"   alt="" decoding="async" data-src="https://duck.design/wp-content/uploads/2022/01/2-1.webp" class="attachment-full size-full lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img width="87" height="87" src="wp-content/uploads/2022/01/2-1.webp" class="attachment-full size-full" alt="" decoding="async" /></noscript>        </div>
+
+        <div class="review__info">
+            <p class="review__name">Girts Ledins</p>
+
+                            <p class="review__position"><a href="https://codnity.com/en/main" target="_blank" rel="noopener nofollow">Codnity</a> Co-Founder</p>
+                    </div>
+    </header>
+
+    <div class="review__main">
+        <h3 class="review__title">Better results and simpler than you would imagine</h3>
+
+                    <div class="review__rating">
+                ⭐⭐⭐⭐⭐            </div>
+        
+        <p class="review__desc">
+            Exceptional service. Loved my artist and my project manager Valeria. Not sure how Valeria figured out my complicated project, but he made it all seem super easy. I couldn't have asked for or imagined a better result.        </p>
+
+        <div class="review__info mobile">
+                            <p class="review__position"><a href="https://codnity.com/en/main" target="_blank" rel="noopener nofollow">Codnity</a> Co-Founder</p>
+                        
+            <p class="review__name">Girts Ledins</p>
+        </div>
+    </div>
+</article>
+                        </div>
+                                            <div>
+                            <article class="review review_motion wow fadeInUp" data-wow-delay="0.4s">
+    <header class="review__header">
+        <div class="review__img">
+            <img width="150" height="150"   alt="" decoding="async" data-src="https://duck.design/wp-content/uploads/2022/01/3-1.webp" class="attachment-full size-full lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img width="150" height="150" src="wp-content/uploads/2022/01/3-1.webp" class="attachment-full size-full" alt="" decoding="async" /></noscript>        </div>
+
+        <div class="review__info">
+            <p class="review__name">Lauren Short</p>
+
+                    </div>
+    </header>
+
+    <div class="review__main">
+        <h3 class="review__title">Great design team to work with</h3>
+
+                    <div class="review__rating">
+                ⭐⭐⭐⭐⭐            </div>
+        
+        <p class="review__desc">
+            Great customer service. The design team is very professional and our project manager, Bernard, walked us through each step patiently. Konsus will definitely meet your requirements that you expected. Highly recommended!!!        </p>
+
+        <div class="review__info mobile">
+                        
+            <p class="review__name">Lauren Short</p>
+        </div>
+    </div>
+</article>
+                        </div>
+                                            <div>
+                            <article class="review review_motion wow fadeInUp" data-wow-delay="0.6s">
+    <header class="review__header">
+        <div class="review__img">
+            <img width="150" height="150"   alt="" decoding="async" data-src="https://duck.design/wp-content/uploads/2022/01/4.webp" class="attachment-full size-full lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img width="150" height="150" src="wp-content/uploads/2022/01/4.webp" class="attachment-full size-full" alt="" decoding="async" /></noscript>        </div>
+
+        <div class="review__info">
+            <p class="review__name">Malia Cruz</p>
+
+                            <p class="review__position">Beauty blogger</p>
+                    </div>
+    </header>
+
+    <div class="review__main">
+        <h3 class="review__title">Amazing</h3>
+
+                    <div class="review__rating">
+                ⭐⭐⭐⭐⭐            </div>
+        
+        <p class="review__desc">
+            I really enjoyed working with the team they went above and beyond to get the banner just right for me. i surely appreciated that. the overall brand guide really looks good too. i love the colors and font choices.        </p>
+
+        <div class="review__info mobile">
+                            <p class="review__position">Beauty blogger</p>
+                        
+            <p class="review__name">Malia Cruz</p>
+        </div>
+    </div>
+</article>
+                        </div>
+                                            <div>
+                            <article class="review review_motion wow fadeInUp" data-wow-delay="0.8s">
+    <header class="review__header">
+        <div class="review__img">
+            <img width="150" height="150"   alt="" decoding="async" data-src="https://duck.design/wp-content/uploads/2022/01/5.webp" class="attachment-full size-full lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img width="150" height="150" src="wp-content/uploads/2022/01/5.webp" class="attachment-full size-full" alt="" decoding="async" /></noscript>        </div>
+
+        <div class="review__info">
+            <p class="review__name">Ilya Balter</p>
+
+                    </div>
+    </header>
+
+    <div class="review__main">
+        <h3 class="review__title">Everything was done perfectly</h3>
+
+                    <div class="review__rating">
+                ⭐⭐⭐⭐⭐            </div>
+        
+        <p class="review__desc">
+            Everything was done perfectly - exceeded expectations, completed early and under budget. Evident high commitment to customer satisfaction. I will go out of my way to recommend Duck.design to my colleagues.        </p>
+
+        <div class="review__info mobile">
+                        
+            <p class="review__name">Ilya Balter</p>
+        </div>
+    </div>
+</article>
+                        </div>
+                                            <div>
+                            <article class="review review_motion wow fadeInUp" data-wow-delay="1s">
+    <header class="review__header">
+        <div class="review__img">
+            <img width="150" height="150"   alt="" decoding="async" data-src="https://duck.design/wp-content/uploads/2022/01/6.webp" class="attachment-full size-full lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img width="150" height="150" src="wp-content/uploads/2022/01/6.webp" class="attachment-full size-full" alt="" decoding="async" /></noscript>        </div>
+
+        <div class="review__info">
+            <p class="review__name">William Skidmore</p>
+
+                            <p class="review__position">Copywriter and Creative Consultant
+</p>
+                    </div>
+    </header>
+
+    <div class="review__main">
+        <h3 class="review__title">Our best design partner</h3>
+
+                    <div class="review__rating">
+                ⭐⭐⭐⭐⭐            </div>
+        
+        <p class="review__desc">
+            It's the third time I use similar services. However, my experience with Duck.design is entirely different, designers are very professionals, and I love using their app, making it easy for us to send a new process. Therefore, I will include Duck.design as a long-term design partner.        </p>
+
+        <div class="review__info mobile">
+                            <p class="review__position">Copywriter and Creative Consultant
+</p>
+                        
+            <p class="review__name">William Skidmore</p>
+        </div>
+    </div>
+</article>
+                        </div>
+                                            <div>
+                            <article class="review review_motion wow fadeInUp" data-wow-delay="1.2s">
+    <header class="review__header">
+        <div class="review__img">
+            <img width="150" height="150"   alt="" decoding="async" data-src="https://duck.design/wp-content/uploads/2022/01/7.webp" class="attachment-full size-full lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img width="150" height="150" src="wp-content/uploads/2022/01/7.webp" class="attachment-full size-full" alt="" decoding="async" /></noscript>        </div>
+
+        <div class="review__info">
+            <p class="review__name">Mark Bkfx</p>
+
+                            <p class="review__position">Business Development Manager at <a href="https://bkfx.io/" target="_blank" rel="noopener nofollow">BKFX</a>
+</p>
+                    </div>
+    </header>
+
+    <div class="review__main">
+        <h3 class="review__title">Very happy with the result!</h3>
+
+                    <div class="review__rating">
+                ⭐⭐⭐⭐⭐            </div>
+        
+        <p class="review__desc">
+            Very happy with the result!
+I like this community of designers who designed for me my first mobile app. Good job!        </p>
+
+        <div class="review__info mobile">
+                            <p class="review__position">Business Development Manager at <a href="https://bkfx.io/" target="_blank" rel="noopener nofollow">BKFX</a>
+</p>
+                        
+            <p class="review__name">Mark Bkfx</p>
+        </div>
+    </div>
+</article>
+                        </div>
+                                            <div>
+                            <article class="review review_motion wow fadeInUp" data-wow-delay="1.4s">
+    <header class="review__header">
+        <div class="review__img">
+            <img width="112" height="113"   alt="" decoding="async" data-src="https://duck.design/wp-content/uploads/2022/01/8.webp" class="attachment-full size-full lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img width="112" height="113" src="wp-content/uploads/2022/01/8.webp" class="attachment-full size-full" alt="" decoding="async" /></noscript>        </div>
+
+        <div class="review__info">
+            <p class="review__name"> Michael P. Varveris</p>
+
+                            <p class="review__position"><a href="https://www.yelp.com/biz/michael-p-varveris-md-naples-3" target="_blank" rel="noopener nofollow">Michael P Varveris, MD</a></p>
+                    </div>
+    </header>
+
+    <div class="review__main">
+        <h3 class="review__title">The best I happened to deal with</h3>
+
+                    <div class="review__rating">
+                ⭐⭐⭐⭐⭐            </div>
+        
+        <p class="review__desc">
+            The best I happened to deal with. First of all, it turned out design subscription model is extremely handy. Secondly, it's cheaper than hiring people on full-stack salaries.        </p>
+
+        <div class="review__info mobile">
+                            <p class="review__position"><a href="https://www.yelp.com/biz/michael-p-varveris-md-naples-3" target="_blank" rel="noopener nofollow">Michael P Varveris, MD</a></p>
+                        
+            <p class="review__name"> Michael P. Varveris</p>
+        </div>
+    </div>
+</article>
+                        </div>
+                                            <div>
+                            <article class="review review_motion wow fadeInUp" data-wow-delay="1.6s">
+    <header class="review__header">
+        <div class="review__img">
+            <img width="150" height="150"   alt="" decoding="async" data-src="https://duck.design/wp-content/uploads/2022/01/9.webp" class="attachment-full size-full lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img width="150" height="150" src="wp-content/uploads/2022/01/9.webp" class="attachment-full size-full" alt="" decoding="async" /></noscript>        </div>
+
+        <div class="review__info">
+            <p class="review__name">Alexandra Rosenkranz</p>
+
+                            <p class="review__position"><a href="https://www.nail-works.com/" target="_blank" rel="noopener nofollow">NAILWORKS</a></p>
+                    </div>
+    </header>
+
+    <div class="review__main">
+        <h3 class="review__title">Good service!</h3>
+
+                    <div class="review__rating">
+                ⭐⭐⭐⭐⭐            </div>
+        
+        <p class="review__desc">
+            Good service, responsive, and they get the job done. We've been using them for over a year and they are almost as easy to work with as having a designer on staff.
+        </p>
+
+        <div class="review__info mobile">
+                            <p class="review__position"><a href="https://www.nail-works.com/" target="_blank" rel="noopener nofollow">NAILWORKS</a></p>
+                        
+            <p class="review__name">Alexandra Rosenkranz</p>
+        </div>
+    </div>
+</article>
+                        </div>
+                                                </div>
+        </div>
+    </div>
+</div>        <section class="serv-contacts-section contacts-section-capability">
+    <div class="container serv-contacts-section__container">
+        <div class="serv-contacts-section__main">
+            <h2 class="section-title section-title_serv-contacts">
+                Your one-stop-shop for good design            </h2>
+
+            <div class="section-desc section-desc_serv-contacts">
+                Come join 400+ companies 
+who are doing design at scale without increasing headcount            </div>
+            <a href="index.html?p=151#contactspage" class="btn serv-form__btn capability-btn" type="submit">Get Started</a>
+        </div>
+
+                            <img   alt="" data-src="https://duck.design/wp-content/uploads/2022/06/capabilities-right-img02.svg" class="contacts-img lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img class="contacts-img" src="wp-content/uploads/2022/06/capabilities-right-img02.svg" alt=""/></noscript>
+            </div>
+</section>
+    </main>
+        
+<footer class="footer footer_black">
+    <div class="container">
+        <div class="footer__container">
+            <div class="footer__block-info">
+                                                            <a href="index.html" class="footer__logo">
+                            <img  alt="Duck Design logo" width="280" height="77" data-src="https://duck.design/wp-content/themes/duckdesign/assets/img/footer-logo-white.svg" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img src="wp-content/themes/duckdesign/assets/img/footer-logo-white.svg" alt="Duck Design logo" width="280" height="77"></noscript>
+                        </a>
+                                    
+                                   <div class="footer__address">
+                        
+<p>71-75, Shelton Street, Covent Garden, London, WC2H 9JQ, UNITED KINGDOM</p>
+                    </div>
+                
+                <ul class="footer__payments">
+                    <li>
+                        <img  alt="MasterCard" data-src="https://duck.design/wp-content/themes/duckdesign/assets/img/footer/mastercard.webp" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img src="wp-content/themes/duckdesign/assets/img/footer/mastercard.webp" alt="MasterCard"></noscript>
+                    </li>
+                    <li>
+                        <img  alt="paypal" data-src="https://duck.design/wp-content/themes/duckdesign/assets/img/footer/paypal.webp" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img src="wp-content/themes/duckdesign/assets/img/footer/paypal.webp" alt="paypal"></noscript>
+                    </li>
+                    <li>
+                        <img  alt="visa" data-src="https://duck.design/wp-content/themes/duckdesign/assets/img/footer/visa.webp" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img src="wp-content/themes/duckdesign/assets/img/footer/visa.webp" alt="visa"></noscript>
+                    </li>
+                    <li>
+                        <img  alt="wire" data-src="https://duck.design/wp-content/themes/duckdesign/assets/img/footer/wire.webp" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img src="wp-content/themes/duckdesign/assets/img/footer/wire.webp" alt="wire"></noscript>
+                    </li>
+                </ul>
+            </div>
+            
+                            <div class="footer__blocks-column">
+                    <div class="footer__block">
+                        <h3 class="footer__block-title">About</h3>
+    
+                        <ul id="menu-about-menu" class="footer__menu-list"><li id="menu-item-168" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-168"><a href="index.html?p=142">About Us</a></li>
+<li id="menu-item-596" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-596"><a href="index.html?p=140">Portfolio</a></li>
+<li id="menu-item-595" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-595"><a href="index.html?p=394">Case Study</a></li>
+<li id="menu-item-169" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-169"><a href="index.html?p=155">Careers</a></li>
+</ul>                    </div>
+    
+                    <div class="footer__block">
+                        <h3 class="footer__block-title">Services</h3>
+    
+                        <ul id="menu-services-menu" class="footer__menu-list"><li id="menu-item-172" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-172"><a href="index.html?p=136">Pricing</a></li>
+<li id="menu-item-171" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-171"><a href="index.html?p=157">No-code Development</a></li>
+<li id="menu-item-2031" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2031"><a href="index.html?p=1934">New Products</a></li>
+<li id="menu-item-2558" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2558"><a href="index.html?p=2502">Time and material</a></li>
+</ul>                    </div>
+                </div>
+            
+            
+                            <div class="footer__block">
+                    <h3 class="footer__block-title">Capabilities</h3>
+
+                    <ul id="menu-capabilities-menu" class="footer__menu-list two-cols"><li id="menu-item-1298" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1298"><a href="index.html?p=1003">Graphic Design</a></li>
+<li id="menu-item-1297" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1297"><a href="index.html?p=1122">Advertising &#038; Marketing</a></li>
+<li id="menu-item-1299" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1299"><a href="index.html?p=597">Motion Graphics</a></li>
+<li id="menu-item-1296" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1296"><a href="infographic-design-and-custom-illustration-services/140">Infographic Design &#038; Illustration</a></li>
+<li id="menu-item-1295" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1295"><a href="brand-identity-design-services/140">Brand Identity Design</a></li>
+<li id="menu-item-1294" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1294"><a href="print-merchandise-and-packaging-design-services/140">Print, Merchandise &#038; Packaging Design</a></li>
+<li id="menu-item-1348" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1348"><a href="ux-ui-design-services/140">UI/UX Design</a></li>
+<li id="menu-item-1290" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1290"><a href="app-ui-ux-design-services/140">App UI/UX Design</a></li>
+<li id="menu-item-1291" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1291"><a href="website-design-services/140">Website Design</a></li>
+<li id="menu-item-1293" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1293"><a href="landing-page-design-services/140">Landing Page Design</a></li>
+<li id="menu-item-1292" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1292"><a href="powerpoint-design-services/140">PowerPoint Design</a></li>
+<li id="menu-item-1289" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1289"><a href="saas-product-design-services/140">SaaS Product Design</a></li>
+<li id="menu-item-1345" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1345"><a href="amazon-design-services/140">Amazon Design</a></li>
+<li id="menu-item-1346" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-1323 current_page_item menu-item-1346"><a href="startup-design-services/140" aria-current="page">Startup Design</a></li>
+<li id="menu-item-1347" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1347"><a href="software-design-services/140">Software Design</a></li>
+</ul>                </div>
+            
+            <div class="footer__block footer__block-continf en">
+                <h3 class="footer__block-title">Contact Us</h3>
+
+                <ul class="footer__menu-list contacts">
+                    <li><a href="cdn-cgi/l/email-protection#a7c4c8c9d3c6c4d3e7c3d2c4cc89c3c2d4cec0c9"><strong><span class="__cf_email__" data-cfemail="2b4844455f4a485f6b4f5e4840054f4e58424c45">[email&#160;protected]</span></strong></a></li>
+                    <li><a href="tel:+12677991800">+1 267 799 1800</a></li>
+                    <li><a href="tel:+441183282090">+44 1183 282090</a></li>
+                                            <li><a href="index.html?p=151">Book a demo</a></li>
+                                    </ul>
+
+                <ul class="footer__socials">
+                    <li>
+                        <a href="https://www.behance.net/duck-design" target="_blank" rel="nofollow noopener" aria-label="Behance">
+                            <img width="32" height="32" data-src="https://duck.design/wp-content/themes/duckdesign/assets/sprite/sicon01.svg" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img width="32" height="32" src="wp-content/themes/duckdesign/assets/sprite/sicon01.svg" /></noscript>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="https://www.facebook.com/Duckdesignapp" target="_blank" rel="nofollow noopener" aria-label="Facebook">
+                            <img width="32" height="32" data-src="https://duck.design/wp-content/themes/duckdesign/assets/sprite/sicon02.svg" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img width="32" height="32" src="wp-content/themes/duckdesign/assets/sprite/sicon02.svg" /></noscript>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="https://www.linkedin.com/company/duck-design-app/" target="_blank" rel="nofollow noopener" aria-label="Linkedin">
+                            <img width="32" height="32" data-src="https://duck.design/wp-content/themes/duckdesign/assets/sprite/sicon03.svg" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img width="32" height="32" src="wp-content/themes/duckdesign/assets/sprite/sicon03.svg" /></noscript>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="https://www.instagram.com/duck.design.app/" target="_blank" rel="nofollow noopener" aria-label="Instagram">
+                            <img width="32" height="32" data-src="https://duck.design/wp-content/themes/duckdesign/assets/sprite/sicon04.svg" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img width="32" height="32" src="wp-content/themes/duckdesign/assets/sprite/sicon04.svg" /></noscript>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="https://twitter.com/Duckdesignapp" target="_blank" rel="nofollow noopener" aria-label="Twitter">
+                            <img width="32" height="32" data-src="https://duck.design/wp-content/themes/duckdesign/assets/sprite/sicon05.svg" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img width="32" height="32" src="wp-content/themes/duckdesign/assets/sprite/sicon05.svg" /></noscript>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="https://www.youtube.com/channel/UComwISZ029gXaNadPNSRvlg/videos" target="_blank" rel="nofollow noopener" aria-label="Youtube">
+                            <img width="32" height="32" data-src="https://duck.design/wp-content/themes/duckdesign/assets/sprite/sicon06.svg" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img width="32" height="32" src="wp-content/themes/duckdesign/assets/sprite/sicon06.svg" /></noscript>
+                        </a>
+                    </li>
+                </ul>
+
+            </div>
+        </div>
+
+        <div class="footer__partners en">
+            <div class="footer__partners-wrap en">
+                <ul id="menu-footer-menu" class="footer__policy-menu"><li id="menu-item-2441" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2441"><a href="index.html?p=163">Refund Policy</a></li>
+<li id="menu-item-2440" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2440"><a href="index.html?p=159">Privacy Policy</a></li>
+<li id="menu-item-2438" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2438"><a href="index.html?p=161">Terms &#038; Conditions</a></li>
+</ul>
+                                    <div class="footer__partners-img">
+                        
+<figure class="is-layout-flex wp-block-gallery-1 wp-block-gallery has-nested-images columns-default is-cropped">
+<figure class="wp-block-image size-large"><img decoding="async" width="71" height="52" data-id="2327"   alt=""  data-src="https://duck.design/wp-content/uploads/2022/06/partner01.svg" class="wp-image-2327 lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img decoding="async" width="71" height="52" data-id="2327"  src="wp-content/uploads/2022/06/partner01.svg" alt="" class="wp-image-2327"/></noscript></figure>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" width="79" height="61" data-id="2326"   alt=""  data-src="https://duck.design/wp-content/uploads/2022/06/partner02.svg" class="wp-image-2326 lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img decoding="async" width="79" height="61" data-id="2326"  src="wp-content/uploads/2022/06/partner02.svg" alt="" class="wp-image-2326"/></noscript></figure>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" width="102" height="35" data-id="2325"   alt=""  data-src="https://duck.design/wp-content/uploads/2022/06/partner03.svg" class="wp-image-2325 lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img decoding="async" width="102" height="35" data-id="2325"  src="wp-content/uploads/2022/06/partner03.svg" alt="" class="wp-image-2325"/></noscript></figure>
+</figure>
+                    </div>
+                            </div>
+            <div class="footer__copy-wrap en">
+                                    <div class="footer__registr">
+                        <div>Hide Corporation Ltd</div>
+<div>Registration number: 13640073</div>                    </div>
+                                <div class="footer__copy">
+                    &copy; 2022 Duck.Design. All Rights Reserved.
+                </div>
+        </div>
+    </div>
+</footer>
+
+<div class="modal js-modal" data-modal="contacts">
+    <button class="btn modal__bg js-modal-close" type="button" aria-label="Close modal"></button>
+
+    <button class="btn modal__close js-modal-close" type="button" aria-label="Close modal"></button>
+
+    <div class="modal__wrap animated">
+        <img  alt="Get Your Unique Proposal" width="560" height="290" loading="lazy" data-src="https://duck.design/wp-content/themes/duckdesign/assets/img/modal/modal.jpg" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img src="wp-content/themes/duckdesign/assets/img/modal/modal.jpg" alt="Get Your Unique Proposal" width="560" height="290" loading="lazy"></noscript>
+
+        <div class="modal__main">
+            <h3 class="modal__title">
+                Get Your Unique Proposal            </h3>
+
+            <form method="POST" action="https://duck.design/wp-content/themes/duckdesign/forms/send.php" class="js-contacts-form modal-form">
+                <input type="email" name="email" class="modal-form__input" placeholder="Email*" required>
+                <input type="text" name="name" class="modal-form__input" placeholder="Name*" required>
+                <button class="btn modal-form__btn" type="submit">Get a Proposal</button>
+            </form>
+        </div>
+    </div>
+</div>
+
+<div class="modal modal_success js-modal" data-modal="success">
+    <button class="btn modal__bg js-modal-close" type="button" aria-label="Close modal"></button>
+ 
+    <div class="container modal__container">
+        <button class="btn modal__close js-modal-close" type="button" aria-label="Close modal"></button>
+    </div>
+    
+    <div class="modal__wrap animated">
+        <div class="modal__success">
+            <svg width="50" height="50" fill="#62C584"> <path d="M25.1 49.28A24.64 24.64 0 0 1 .5 24.68 24.64 24.64 0 0 1 25.1.07a24.64 24.64 0 0 1 24.6 24.6 24.64 24.64 0 0 1-24.6 24.61zm0-47.45A22.87 22.87 0 0 0 2.26 24.68 22.87 22.87 0 0 0 25.1 47.52a22.87 22.87 0 0 0 22.84-22.84A22.87 22.87 0 0 0 25.1 1.83z"></path> <path d="M22.84 30.53l-4.44-4.45a.88.88 0 1 1 1.24-1.24l3.2 3.2 8.89-8.9a.88.88 0 1 1 1.25 1.26L22.84 30.53z"></path> </svg>
+            <p>Thank you. We will be in touch shortly!</p>
+        </div>
+    </div>
+</div>
+<script data-cfasync="false" src="cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script type="text/javascript">window.$crisp=[];window.CRISP_WEBSITE_ID="f90c8135-0160-456d-82da-f8b5818f9380";(function(){d=document;s=d.createElement("script");s.src="https://client.crisp.chat/l.js";s.async=1;d.getElementsByTagName("head")[0].appendChild(s);})();</script>
+
+        <style>.wp-block-gallery.wp-block-gallery-1{ --wp--style--unstable-gallery-gap: var( --wp--style--gallery-gap-default, var( --gallery-block--gutter-size, var( --wp--style--block-gap, 0.5em ) ) ); gap: var( --wp--style--gallery-gap-default, var( --gallery-block--gutter-size, var( --wp--style--block-gap, 0.5em ) ) )}</style>
+<script src='wp-includes/js/dist/vendor/regenerator-runtime.min.js?ver=0.13.9' id='regenerator-runtime-js'></script>
+<script src='wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0' id='wp-polyfill-js'></script>
+<script id='contact-form-7-js-extra'>
+var wpcf7 = {"api":{"root":"https:\/\/duck.design\/wp-json\/","namespace":"contact-form-7\/v1"}};
+</script>
+<script src='wp-content/plugins/contact-form-7/includes/js/index.js?ver=5.6.2' id='contact-form-7-js'></script>
+<script id='scripts-js-extra'>
+var contacts = {"home_url":"https:\/\/duck.design"};
+</script>
+<script src='wp-content/themes/duckdesign/build/js/bundle.min.js?ver=1.3.9' id='scripts-js'></script>
+<script src='wp-content/plugins/wp-smushit/app/assets/js/smush-lazy-load.min.js?ver=3.11.1' id='smush-lazy-load-js'></script>
+<script type='text/javascript'>
+(function() {
+				var expirationDate = new Date();
+				expirationDate.setTime( expirationDate.getTime() + 31536000 * 1000 );
+				document.cookie = "pll_language=en; expires=" + expirationDate.toUTCString() + "; path=/; secure; SameSite=Lax";
+			}());
+</script>
+
+        <script>
+            function getCookie(name) {
+                var dc = document.cookie;
+                var prefix = name + "=";
+                var begin = dc.indexOf("; " + prefix);
+                if (begin == -1) {
+                    begin = dc.indexOf(prefix);
+                    if (begin != 0) return null;
+                }
+                else
+                {
+                    begin += 2;
+                    var end = document.cookie.indexOf(";", begin);
+                    if (end == -1) {
+                    end = dc.length;
+                    }
+                }
+                return decodeURI(dc.substring(begin + prefix.length, end));
+            }
+
+            function writeCookie(name, val, expires) {
+                var date = new Date;
+                date.setDate(date.getDate() + expires);
+                document.cookie = name+"="+val+"; path=/; expires=" + date.toUTCString();
+            }
+
+            var myCookie = getCookie("replacebtn");
+            var currentLocation = window.location.pathname;
+            var bookbtn = document.getElementById('bookcall');
+
+            if ((myCookie == null) && (currentLocation == '/call/'))  {
+                // do cookie doesn't exist stuff;
+                writeCookie('replacebtn', '1', 30);
+                bookbtn.setAttribute('href', 'https://duck.design/call/');
+            }
+            else {
+                // do cookie exists stuff
+                if (myCookie == 1) {
+                    bookbtn.setAttribute('href', 'https://duck.design/call/');
+                }
+            }
+        </script>
+
+            <script>
+                    function getParameterByName(name) {
+                        var name = name.replace(/[\[]/, "\\[").replace(/[\]]/, "\\]");
+                        var regex = new RegExp("[\\?&]" + name + "=([^&#]*)");
+                        var results = regex.exec(location.search);
+                        return results === null ? "" : decodeURIComponent(results[1].replace(/\+/g, " "));
+                    }
+
+                    if (getParameterByName('utm_source').length > 0){
+                        let utm_source = getParameterByName('utm_source');
+                        localStorage.setItem('utm_source', JSON.stringify(utm_source));
+                    }
+                    if (getParameterByName('utm_medium').length > 0){
+                        let utm_medium = getParameterByName('utm_medium');
+                        localStorage.setItem('utm_medium', JSON.stringify(utm_medium));
+                    }
+                    if (getParameterByName('utm_campaign').length > 0){
+                        let utm_campaign = getParameterByName('utm_campaign');
+                        localStorage.setItem('utm_campaign', JSON.stringify(utm_campaign));
+                    }
+                    if (getParameterByName('utm_content').length > 0){
+                        let utm_content = getParameterByName('utm_content');
+                        localStorage.setItem('utm_content', JSON.stringify(utm_content));
+                    }
+                    if (getParameterByName('utm_term').length > 0){
+                        let utm_term = getParameterByName('utm_term');
+                        localStorage.setItem('utm_term', JSON.stringify(utm_term));
+                    }
+
+                    let utmsource = localStorage.getItem('utm_source');
+                    let utmmedium = localStorage.getItem('utm_medium');
+                    let utmcampaign = localStorage.getItem('utm_campaign');
+                    let utmcontent = localStorage.getItem('utm_content');
+                    let utmterm = localStorage.getItem('utm_term');
+
+
+                    var formutm = `?utm_source=${utmsource}&utm_medium=${utmmedium}&utm_campaign=${utmcampaign}&utm_content=${utmcontent}&utm_term=${utmterm}`;
+                    document.getElementById('utmfield').value = formutm;
+
+            </script>
+
+        <script>
+            document.addEventListener( 'wpcf7mailsent', function( event ) {
+                location = 'https://calendly.com/duck-design/15min';
+
+                window.dataLayer.push({
+                    'event': 'sentcallbackform'
+                });
+            }, false );
+        </script>
+    </body>
+</html><!-- WP Fastest Cache file was created in 3.9553999900818 seconds, on 09-11-22 9:50:30 -->
